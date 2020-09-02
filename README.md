@@ -1,2 +1,6 @@
 # apartmentify
-A discord bot that queries through Philadelphia apartments
+Search for available apartment units in Philadelphia via discord.
+
+
+Apartments supported:
+- The Granary
